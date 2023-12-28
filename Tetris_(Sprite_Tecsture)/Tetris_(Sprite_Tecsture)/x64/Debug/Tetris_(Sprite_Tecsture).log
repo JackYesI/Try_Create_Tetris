@@ -1,0 +1,13 @@
+﻿  Main.cpp
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(77,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(125,55): warning C4305: '=': truncation from 'double' to 'float'
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(170,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(181,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(181,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(192,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(192,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(287,11): warning C4305: '=': truncation from 'double' to 'float'
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(389,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\c++\Tetris\Tetris_(Sprite_Tecsture)\Tetris_(Sprite_Tecsture)\Main.cpp(389,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris_(Sprite_Tecsture).vcxproj -> D:\c++\Tetris\Tetris_(Sprite_Tecsture)\x64\Debug\Tetris_(Sprite_Tecsture).exe
